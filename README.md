@@ -1,6 +1,6 @@
 # CS50 - Solutions
 
-My solutions to the 9 problem sets for the CS50’s Introduction to Programming with Python course. In addition a small Scratch game I made.
+My solutions to the nine Problem Sets for the CS50’s Introduction to Programming with Python course. In addition, a small Scratch game I made.
 
 ## Main tools used
 
@@ -11,7 +11,7 @@ My solutions to the 9 problem sets for the CS50’s Introduction to Programming 
 ## Getting started
 
 * To run these solutions to Problem Sets, you need Visual Studio code (or similar) and a basic knowledge of Python
-* For the Scratch game you just need to access Scratch with the link below where you can upload the file Escape_Scratch_Game.sb3 and press the green flag to start
+* For the Scratch game, you just need to access Scratch with the link below where you can upload the file Escape_Scratch_Game.sb3 and press the green flag to start
 * Start Menu for the Scratch game inspired by McVincient_Tutorials linked below
 
 ## Author
